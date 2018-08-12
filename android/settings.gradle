@@ -1,0 +1,3 @@
+rootProject.name = 'TechNews'
+
+include ':app'
